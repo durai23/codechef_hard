@@ -2,6 +2,7 @@ import numpy as np
 import re
 
 # passSeq=[]
+# check
 # firstEncCoord=[]
 #anything on the outermost rectangle that is not a dot
 def findEdge(list3):
